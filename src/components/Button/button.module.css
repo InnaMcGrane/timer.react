@@ -1,0 +1,17 @@
+
+.btn {
+    cursor: pointer;
+}
+
+.btn--save {
+   background-color: #13a9ba;
+   color: white;
+   font-weight: bold;
+   text-align: center;
+   width: 100%;
+   padding: 10px 0;
+}
+
+.btn--active {
+    background-color: rgb(43, 182, 30);
+}
